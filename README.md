@@ -1,16 +1,46 @@
-## Hi there 👋
+<div id="header" align="center">
 
-<!--
-**Rikki007/Rikki007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>Hello, there!<h1/>
+  <h3>I'm kirill. Front end developer from Minsk.<h3/>
 
-Here are some ideas to get you started:
+<div/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+  <a href=" www.instagram.com/kirillo_93">
+    <img src="https://img.icons8.com/?size=100&id=13928&format=png&color=000000" alt="insta-link"/>
+  <a/>
+
+  <a href="t.me/Kartoshechka93">
+    <img src="https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000" alt="telega-link"/>
+  <a/>
+
+<div/>
+
+<div align="start">
+
+  <h4>Languages and tools:<h4/>
+
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" title="html" width="70" height="70"/>
+
+  <img src="https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000" title="css" width="71" height="71"/>
+
+  <img src="https://img.icons8.com/?size=100&id=QBqFNfPPB2Kx&format=png&color=000000" title="sass" width="70" height="70"/>
+
+  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" title="js" width="70" height="70"/>
+
+  <img src="https://img.icons8.com/?size=100&id=wpZmKzk11AzJ&format=png&color=000000" title="type-script" width="70" height="70"/>
+
+  <img src="https://img.icons8.com/?size=100&id=QjbHx7WUskg1&format=png&color=000000" title="web-pack" width="70" height="70"/>
+
+  <img src="https://img.icons8.com/?size=100&id=VXQrhy9fWtm1&format=png&color=000000" title="react" width="70" height="70"/>
+
+  &nbsp;<p>English level - A2.<p/>
+
+<div/>
+
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rikki007&theme=moonlight" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rikki007&theme=moonlight" alt=""/>
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rikki007&theme=moonlight" alt=""/>
+</div>
