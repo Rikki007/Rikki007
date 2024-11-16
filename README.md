@@ -5,18 +5,6 @@
 
 <div/>
 
-<div align="center">
-
-  <a href=" www.instagram.com/kirillo_93">
-    <img src="https://img.icons8.com/?size=100&id=13928&format=png&color=000000" alt="insta-link"/>
-  <a/>
-
-  <a href="t.me/Kartoshechka93">
-    <img src="https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000" alt="telega-link"/>
-  <a/>
-
-<div/>
-
 <div align="start">
 
   <h4>Languages and tools:<h4/>
